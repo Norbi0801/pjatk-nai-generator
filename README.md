@@ -1,5 +1,3 @@
-# Repozytorium NAI
-
 To repozytorium zawiera kod w języku Python, który generuje losowe zadania z zakresu sieci neuronowych i uczenia maszynowego (NAI). Główne zadania obejmują:
 
 - **Perceptron dyskretny unipolarny** – obliczenia związane z działaniem perceptronu, w tym obliczenie wyjścia, korektę wag metodą reguły delta oraz analizę zmiany progu.
